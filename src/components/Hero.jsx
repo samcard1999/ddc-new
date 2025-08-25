@@ -56,7 +56,7 @@ const Hero = () => {
       >
         <GsapParallax
           className="bg h-full bg-hero filter brightness-75"
-          src="/public/assets/bg/Aereo.webp"
+          src="/assets/bg/Aereo.webp"
           fromY={-100}
           toY={100}
         />
